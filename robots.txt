@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /admin
-Disallow: /app
-Disallow: /delivery_boy
-Disallow: /update
-
-User-agent: *
-Allow: /
