@@ -1,0 +1,29 @@
+-----------------------------------------------------------------------
+	eShop - Web Version Installation Help
+-----------------------------------------------------------------------
+
+When you are an existing customer and you have already got the eShop App and Backend running on your server.
+
+For example your Domain URL is https://youreshop.com/
+
+Now when you have bought our new web version, and if you want to install it on your server without disturbing your existing system. you can easily install that into your system by following these simple steps explained below :
+
+Step 1 : Download the web version package from codecanyon from your downloads section.
+
+Step 2 : Extract the eshop - web version - PHP - v1.0.0.zip and You will Find the "web version - v1.0.0 - installer-updater.zip" file from the downloaded package.
+	You would see content of the package something like this
+		/web version - v1.0.0 - installer-updater.zip
+		/documentation/How to install web version.txt
+
+Step 3 : Open your admin panel and navigate to System > System Updater Page. 
+	Example Link as per the above link would be >>
+	https://youreshop.com/admin/updater/
+	
+Step 4 : Drag & Drop or Choose this "web version - v1.0.0 - installer - updater.zip" file in the Upload area. 
+Step 5 : Congratulations! Click on "Update the System" button and Reload the page and your are done. You are now having the Web version installed in your existing system.
+
+New full-fledge documentation is coming up soon. 
+
+Thank you 
+
+
